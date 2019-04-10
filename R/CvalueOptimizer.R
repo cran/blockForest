@@ -10,7 +10,9 @@ CvalueOptimizer <-
                 trees = "list",
                 treetype = "character",
                 blocks = "list",
-                block.method = "character"),
+                block.method = "character", 
+                splitrule = "character", 
+                always.select.block = "integer"),
               methods = list(
                 
                 optimizeCvalues = function(...) {
