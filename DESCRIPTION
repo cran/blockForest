@@ -2,8 +2,8 @@ Package: blockForest
 Type: Package
 Title: Block Forests: Random Forests for Blocks of Clinical and Omics
         Covariate Data
-Version: 0.2.4
-Date: 2019-12-06
+Version: 0.2.5
+Date: 2022-10-19
 Author: Roman Hornung, Marvin N. Wright
 Maintainer: Marvin N. Wright <cran@wrig.de>
 Description: A random forest variant 'block forest' ('BlockForest') tailored to the 
@@ -27,10 +27,10 @@ Imports: Rcpp (>= 0.11.2), Matrix, methods, survival
 LinkingTo: Rcpp, RcppEigen
 Depends: R (>= 3.1)
 Suggests: testthat
-RoxygenNote: 6.1.1
+RoxygenNote: 7.2.1
 NeedsCompilation: yes
 URL: https://github.com/bips-hb/blockForest
 BugReports: https://github.com/bips-hb/blockForest/issues
-Packaged: 2019-12-06 09:15:03 UTC; wright
+Packaged: 2022-10-19 14:41:01 UTC; wright
 Repository: CRAN
-Date/Publication: 2019-12-06 09:50:06 UTC
+Date/Publication: 2022-10-20 14:05:07 UTC
