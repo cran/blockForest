@@ -1,4 +1,4 @@
-e3ccf6a96ff09ee48d07b39c81258dee *DESCRIPTION
+073c101267d3191c31b6b02982a68630 *DESCRIPTION
 786c281ca5c236d3b653b128dc16c604 *NAMESPACE
 af9b20c7392936c47e77d97f3def9c6b *R/CvalueOptimizer.R
 43c74a85111f196851674be75fae084c *R/CvalueOptimizerClassification.R
@@ -19,7 +19,7 @@ b411cbdeafc6122c761bc110f5769d7f *R/getTerminalNodeIDs.R
 5f3fc953ee674f54ca10575779ac73e2 *R/timepoints.R
 742122acf139679466688d0f583abc3f *R/treeInfo.R
 10dc1265d38354f78251149517bf4402 *R/utility.R
-0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
+ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
 867b295b000e590b872b49d6bac66d95 *inst/include/blockForest.h
 56d4294047ded51953ab55f5f91f0730 *man/blockForest.Rd
 cba00879368ca96fc9ad715a1cab29f1 *man/blockfor.Rd
@@ -29,7 +29,7 @@ ffa17cfb1c1c7952b3268f05b73f8303 *man/predictions.blockForest.prediction.Rd
 8c7baff203bf1acd0a9a7e10f7303405 *man/timepoints.blockForest.Rd
 8772e76cf6eda71ee6bce27a48892766 *man/timepoints.blockForest.prediction.Rd
 fbccf10a0aab4ace499295c1e66c555c *man/treeInfo.Rd
-1337f027b94f486bb3899ca32bed8e5a *src/AAA_check_cpp11.cpp
+91adfe451efe8337fdc288bdc1314016 *src/AAA_check_cpp11.cpp
 0612878bcb04af271f6e9cbe1f11da57 *src/Data.cpp
 97fb25ec460a47c70cbc8f7ab9ffb343 *src/Data.h
 86141155788f508c15d37687fb6eaed9 *src/DataChar.cpp
@@ -50,8 +50,8 @@ be2f7639e3a2d3eb9d35040f039fb0cb *src/ForestProbability.h
 688dece02112612669b57f368753ef44 *src/ForestRegression.h
 fc3972a1abb9c38f4abbc515cce43fdf *src/ForestSurvival.cpp
 561be8814129653ef3088dd309e9e8b8 *src/ForestSurvival.h
-9ec0f73a151cbf05029491a7d121c44e *src/Makevars
-35b026405d74b33d230b336feb0ce0b2 *src/Makevars.win
+96ae665c5120b3cb603daa638a7f0381 *src/Makevars
+0a4a9765257cc327311e0bb3d8f339a3 *src/Makevars.win
 f93028e1e961ac959c8dd1179cc51787 *src/RcppExports.cpp
 faa61c647665e0864bec97a3c7b31c98 *src/Tree.cpp
 cc46f0ecf786bc8fc99818d002ffda2e *src/Tree.h
